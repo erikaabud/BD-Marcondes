@@ -52,3 +52,5 @@ CREATE TABLE Cont_receber(
 	PRIMARY KEY(id_cliente, id_venda)
 );
 
+
+select * from Cliente;
